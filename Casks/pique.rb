@@ -1,5 +1,3 @@
-# Template for Casks/pique.rb in github.com/loicbisiere/homebrew-tap.
-# The release workflow (.github/workflows/build.yml) fills in 0.1.0 and fae1d3e8f3a3243bd17da06ee4c579d8dc3d8bd3b79e88d542d9921d2f65d0ba and pushes it to the tap.
 cask "pique" do
   version "0.1.0"
   sha256 "fae1d3e8f3a3243bd17da06ee4c579d8dc3d8bd3b79e88d542d9921d2f65d0ba"
