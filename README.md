@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew tap for Pique and other apps by loicbisiere
+Homebrew tap for Toothpeek and other apps by loicbisiere
