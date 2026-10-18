@@ -1,6 +1,6 @@
 cask "toothpeek" do
-  version "0.3.0"
-  sha256 "b12ea2c18b8d20a208840d066f31561876f8043754e92cb2b1616d90243dce37"
+  version "0.4.0"
+  sha256 "c332dd813caf7408336db349f50b746a479a388449fc0b42dbb44fd3acfa33aa"
 
   url "https://github.com/loicbisiere/toothpeek/releases/download/v#{version}/Toothpeek-#{version}.zip"
   name "Toothpeek"
